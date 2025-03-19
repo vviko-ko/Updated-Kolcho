@@ -40,9 +40,10 @@ export default function Navbar() {
           className="md:hidden bg-white shadow-md py-4 space-y-4 text-center"
         >
           <a href="#" className="block text-gray-700 hover:text-blue-600">Home</a>
-          <a href="#" className="block text-gray-700 hover:text-blue-600">About</a>
-          <a href="#" className="block text-gray-700 hover:text-blue-600">Services</a>
-          <a href="#" className="block text-gray-700 hover:text-blue-600">Contact</a>
+          <a href="#" className="block text-gray-700 hover:text-blue-600">About Us</a>
+          <a href="#" className="block text-gray-700 hover:text-blue-600">Our Services</a>
+          <a href="#" className="block text-gray-700 hover:text-blue-600">Projects</a>
+          <a href="#" className="text-gray-700 hover:text-blue-600">Blog</a>
         </motion.div>
       )}
     </nav>
